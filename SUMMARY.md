@@ -4,7 +4,7 @@
 
 ## Architecture
 
-* [Page 1](architecture/page-1.md)
+* [Overview of the B.A.S.](architecture/overview-of-the-b.a.s..md)
 
 ## Systems
 
