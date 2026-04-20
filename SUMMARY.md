@@ -1,6 +1,17 @@
 # Table of contents
 
 * [BASICS](README.md)
+* [Adoption Playbook](ADOPTION.md)
+
+## Standards
+
+* [Shared Core Standard](standards/shared-core.md)
+* [Software Profile](standards/software-profile.md)
+* [Hardware Profile](standards/hardware-profile.md)
+* [Firmware Profile](standards/firmware-profile.md)
+* [Deviation Registry](standards/deviation-registry.md)
+* [Conformance Checklist](standards/conformance-checklist.md)
+* [Rule Index](standards/rule-index.md)
 
 ## Architecture
 
